@@ -155,21 +155,11 @@ body {
 .theme-dark .status-bar { background: #0d0a09; }
 .theme-light .workspace-ribbon,
 .theme-light .status-bar { background: #d2e5e9; }
-.status-bar { border-top: none; }
+.status-bar { border-top: 1px solid var(--background-modifier-border); }
 
 .nav-file-title.is-active,
 .tree-item-self.is-active { background: var(--nav-item-background-active); color: var(--text-normal); }
 
 /* ---------- Tasks ---------- */
 input[type="checkbox"]:checked { background-color: var(--checkbox-color); border-color: var(--checkbox-color); }
-/* ---------- Remove app frame borders ---------- */
-.titlebar,
-.workspace-tab-header-container,
-.workspace-split.mod-left,
-.workspace-split.mod-right,
-.workspace-split.mod-root,
-.workspace-ribbon,
-.workspace-leaf-resize-handle,
-.status-bar {
-  border: none;
-}
+
