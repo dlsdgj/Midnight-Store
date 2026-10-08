@@ -3,6 +3,10 @@
 便利店美学启发的 Obsidian 主题。
 
 > An Obsidian theme inspired by convenience-store aesthetics.
+> 
+![screenshot](screenshot.png)
+![screenshot](promo-light.png)
+![screenshot](promo-dark.png)
 
 ## 配色
 
@@ -36,4 +40,3 @@
 
 > Settings → Appearance → Themes → Manage → Browse community themes, search `Midnight Store`.
 
-![screenshot](screenshot.png)
