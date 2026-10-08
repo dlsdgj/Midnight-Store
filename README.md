@@ -7,7 +7,7 @@
 ![screenshot](screenshot.png)
 ![screenshot](promo-light.png)
 ![screenshot](promo-dark.png)
-
+![screenshot](wallpaper-light.png)
 ## 配色
 
 | 模式 | 名称 | 主色 |
